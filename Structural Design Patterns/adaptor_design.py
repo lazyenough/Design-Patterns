@@ -1,0 +1,1 @@
+# It allows incompatible interfaces to work together. It acts as a bridge between two unrelated components by translating one interface into another that the client expects.
